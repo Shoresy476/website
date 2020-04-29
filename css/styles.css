@@ -1,0 +1,213 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Baloo Bhaina 2', cursive;
+  background-color: white;
+}
+
+h1 {
+  width: 50%;
+  margin: 100px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 562.5%;
+}
+
+h2 {
+  font-family: 'Montserrat Alternates', sans-serif;
+
+  margin: 0 auto 0 auto;
+}
+
+h3 {
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+
+hr {
+  border-style: none;
+  border-top: 5px dotted #EAF6F6;
+  width: 10%;
+}
+
+p {
+  margin: 20px auto 0 auto;
+  font-size: 120%;
+  line-height: 150%;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  margin-top: 0;
+  padding: 100px 20px 0 20px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 150px;
+  right: 300px;
+}
+
+.mountain {
+  margin-bottom: 0;
+}
+
+.sam {
+  color: #66BFBF;
+}
+
+.web-designer {
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+.middle-container{
+  margin: 0 auto 0 auto;
+  width: 60%;
+  padding-top: 50px;
+
+}
+
+.profile-pic {
+  border-radius: 100px;
+}
+
+.standard {
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 2.5rem;
+  margin: 100px auto 20px auto;
+  color: #66BFBF;
+}
+
+.hello {
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 2.5rem;
+  margin: 10px auto 25px auto;
+  color: #66BFBF;
+}
+
+.skills{
+  text-align: left;
+  margin: 0 auto 0 auto;
+}
+
+.coding-row{
+  text-align: left;
+  margin: 20px auto 20px auto;
+}
+
+.development-heading {
+color: #11999E;
+}
+
+.design-row {
+  text-align: left;
+}
+
+.design-heading {
+  color: #11999E;
+}
+
+.design {
+  width: 15%;
+  float: right;
+  margin-left: 30px;
+}
+
+.computer{
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+}
+
+.spice {
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+}
+
+.tsb {
+  color: #11999E;
+}
+
+.git{
+  color: #66BFBF;
+}
+
+.git2{
+  color: #11999E;
+}
+
+.grabber-row {
+  margin-top: 20px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  color: #11999E;
+  padding: 20px 0 50px;
+}
+.contact-me {
+  margin-bottom: 30px;
+}
+
+.btn {
+	-moz-box-shadow: 0px 10px 14px -7px #276873;
+	-webkit-box-shadow: 0px 10px 14px -7px #276873;
+	box-shadow: 0px 10px 14px -7px #276873;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #599bb3), color-stop(1, #408c99) );
+	background:-moz-linear-gradient( center top, #599bb3 5%, #408c99 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#599bb3', endColorstr='#408c99');
+	background-color:#599bb3;
+	-webkit-border-top-left-radius:8px;
+	-moz-border-radius-topleft:8px;
+	border-top-left-radius:8px;
+	-webkit-border-top-right-radius:8px;
+	-moz-border-radius-topright:8px;
+	border-top-right-radius:8px;
+	-webkit-border-bottom-right-radius:8px;
+	-moz-border-radius-bottomright:8px;
+	border-bottom-right-radius:8px;
+	-webkit-border-bottom-left-radius:8px;
+	-moz-border-radius-bottomleft:8px;
+	border-bottom-left-radius:8px;
+text-indent:0;
+	display:inline-block;
+	color:#ffffff;
+	font-family: 'Montserrat Alternates'
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+height:50px;
+	line-height:50px;
+width:140px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:0px 1px 0px #3d768a;
+}.btn:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #408c99), color-stop(1, #599bb3) );
+	background:-moz-linear-gradient( center top, #408c99 5%, #599bb3 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#408c99', endColorstr='#599bb3');
+	background-color:#408c99;
+}.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.footer-link {
+  color: #11999E;
+  font-family: 'Montserrat Alternates';
+  text-decoration: none;
+}.footer-link:hover{
+  color: #eaf6f6;
+}
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+}
